@@ -1,1 +1,4 @@
 ShakeTune_results
+ saved_variables.cfg
+ adxl_results/belts/*.csv
+ adxl_results/vibrations/*.tar.gz
